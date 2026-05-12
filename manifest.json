@@ -4,17 +4,17 @@
   "patches": [
     {
       "name": "Patch-A.MPQ",
-      "md5": "PASTE_A_HASH_HERE",
+      "md5": "b3f1a2...", 
       "url": "https://Cadderclism.github.io/Caddcraft/Patch-A.MPQ"
     },
     {
       "name": "patch-W.mpq",
-      "md5": "PASTE_W_HASH_HERE",
+      "md5": "a8e4c1...",
       "url": "https://Cadderclism.github.io/Caddcraft/patch-W.mpq"
     },
     {
       "name": "realmlist.wtf",
-      "md5": "PASTE_REALM_HASH_HERE",
+      "md5": "c2d3e4...",
       "url": "https://Cadderclism.github.io/Caddcraft/realmlist.wtf"
     }
   ]
