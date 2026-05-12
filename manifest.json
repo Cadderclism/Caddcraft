@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "realmlist": "96.52.120.9",
+  "patches": [
+    {
+      "name": "Patch-A.MPQ",
+      "md5": "PASTE_A_HASH_HERE",
+      "url": "https://Cadderclism.github.io/Caddcraft/Patch-A.MPQ"
+    },
+    {
+      "name": "patch-W.mpq",
+      "md5": "PASTE_W_HASH_HERE",
+      "url": "https://Cadderclism.github.io/Caddcraft/patch-W.mpq"
+    },
+    {
+      "name": "realmlist.wtf",
+      "md5": "PASTE_REALM_HASH_HERE",
+      "url": "https://Cadderclism.github.io/Caddcraft/realmlist.wtf"
+    }
+  ]
+}
