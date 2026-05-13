@@ -1,2 +1,3 @@
 Patch-A.MPQ 6fd76dec2bbca6b58c7dce68b497e2bf
 patch-W.mpq 1ac5f6ab565fda97db83f007b56dd743
+realmlist.wtf E6E28A241250DC25BE4322E1C26B01D2
